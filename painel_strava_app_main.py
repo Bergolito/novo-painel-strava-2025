@@ -269,6 +269,6 @@ with nova_aba_02:
 
                 st.subheader(f'Mês: {nome_mes} | Quantidade: {qtd_mes} | Distância: {distancia_mes:.1f} km | Calorias: {calorias_mes:.1f} kcal | Tempo: {tempo_mes:.1f} min')
     with col2:
-        st.title(f'Gráficos do mês de {nome_mes}')
+        st.title(f'Gráficos - Detalhamento')
 
 # ==================================================================
